@@ -1,4 +1,4 @@
-<img src="Banner.png" alt=”banner”/> 
+<img align="center" src="Banner.png" alt=”banner”/> 
 
 <h1 align="center">Hi 👋, I'm Pyae Sone Phyo</h1>
 <h3 align="center">I am Maths and Data Enthusiast</h3>
